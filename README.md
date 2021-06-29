@@ -1,7 +1,6 @@
 # Home Weather Station
 
 ##AUTHORS
-Fares Sassi <2528@holbertonschool.com>
 Fares Sassi - [Github](https://https://github.com/Fares84) / [Twitter](https://twitter.com/faressassi) / [LinkedIn](https://www.linkedin.com/in/faress-s-8b55a61b1/)
 
 ## Introduction
@@ -27,4 +26,4 @@ Grafana 8
 Raspberry Pi Azure IoT Online Simulator
 Azure Cloud
 
-![Algorithm schema](./images/grafana_panel.jpg)
+![Grafana Graph](C:\grafana_panel.jpg)
