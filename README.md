@@ -25,11 +25,11 @@ Database.
 
 ## Technologies
 Project is created with:
-Visual Studio Code 1.57
-Python 3.9
-Grafana 8
-Raspberry Pi Azure IoT Online Simulator
-Azure Cloud
+* Visual Studio Code version: 1.57
+* Python version: 3.9
+* Grafanaversion: 8.1
+* Raspberry Pi Azure IoT Online Simulator
+* Azure Cloud
 
 ## License
 Public Domain. No copy write protection.
