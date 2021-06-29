@@ -26,4 +26,7 @@ Grafana 8
 Raspberry Pi Azure IoT Online Simulator
 Azure Cloud
 
-![Grafana Graph](C:\grafana_panel.jpg)
+## License
+Public Domain. No copy write protection.
+
+![Grafana Graph](https://imgur.com/7LyeP4a)
