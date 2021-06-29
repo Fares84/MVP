@@ -1,7 +1,12 @@
 # Home Weather Station
 
-##AUTHORS
+## AUTHORS
 Fares Sassi - [Github](https://https://github.com/Fares84) / [Twitter](https://twitter.com/faressassi) / [LinkedIn](https://www.linkedin.com/in/faress-s-8b55a61b1/)
+
+## Blog, Landing Page & Demo
+[Blog in LinkedIn]()
+[Landing Page](https://252892.wixsite.com/landingpagefares)
+[Youtube Video](https://www.youtube.com/watch?v=bUlbu-Joi_0)
 
 ## Introduction
 We will create a web application that will be our weather station,
@@ -29,4 +34,5 @@ Azure Cloud
 ## License
 Public Domain. No copy write protection.
 
+## ScreenShot Grafana end point
 [Imgur](https://imgur.com/7LyeP4a)
