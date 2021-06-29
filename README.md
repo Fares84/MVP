@@ -32,6 +32,7 @@ Project is created with:
 * Azure Cloud
 
 ## License
+Copyright (c) Microsoft Corporation. All rights reserved.
 A short and simple permissive license with conditions only requiring
 preservation of copyright and license notices.
 Licensed works, modifications, and larger works may be distributed under
