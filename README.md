@@ -29,4 +29,4 @@ Azure Cloud
 ## License
 Public Domain. No copy write protection.
 
-![Grafana Graph](https://imgur.com/7LyeP4a)
+[Imgur](https://imgur.com/7LyeP4a)
