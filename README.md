@@ -33,7 +33,10 @@ Project is created with:
 * Azure Cloud
 
 ## License
-Public Domain. No copy write protection.
+A short and simple permissive license with conditions only requiring
+preservation of copyright and license notices.
+Licensed works, modifications, and larger works may be distributed under
+different terms and without source code.
 
 ## ScreenShot Grafana end point
 [Imgur](https://imgur.com/7LyeP4a)
