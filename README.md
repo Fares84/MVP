@@ -18,11 +18,10 @@ and evenetually cold or not.
 
 ## Project Description
 The project takes place in 3 stages:
-1st part: Data from HOME is sent to Azure IoT Hub when it packages a data stream
-2nd part: the event is received by the Azure Iot Hub, it is processed and sent
-to the Azure function. Then the event is processed and saved in an Azure Sql
-Database.
-3 rd: Grafana can later read and display data from the database
+* 1st part: Data from HOME is sent to Azure IoT Hub when it packages a data stream
+* 2nd part: the event is received by the Azure Iot Hub, it is processed and sent
+to the Azure function. Then the event is processed and saved in an Azure Sql Database.
+* 3 rd: Grafana can later read and display data from the database
 
 ## Technologies
 Project is created with:
