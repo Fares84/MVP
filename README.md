@@ -9,11 +9,12 @@ Fares Sassi - [Github](https://https://github.com/Fares84) / [Twitter](https://t
 [Youtube Video](https://www.youtube.com/watch?v=bUlbu-Joi_0)
 
 ## Introduction
-We will create a web application that will be our weather station,
-we will use a Rasperry PI simulator device (not a real simulator,
-you can buy some for the fun too) which sends the temperature
-and humidity inside the house into real time to our API in the
-Azure cloud.
+I chose to do this project which is to monitor and display the temperature
+and humidity of the house in real time for two reason. the main reason is that
+I wanted to follow the field of cloud and devops which is the future. secondly
+i got this idea after my cousin who just had a baby express a need to know
+if the baby's room was warm relative to the room temperature or not
+and evenetually cold or not.
 
 ## Project Description
 The project takes place in 3 stages:
